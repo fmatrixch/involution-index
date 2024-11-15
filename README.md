@@ -26,25 +26,35 @@ Regions with a value more than 5.0 starts to have ultra-extreme education pressu
    -Hong Kong 15.61693913 - very high
  
    -Macao 3.031406463 - high
- 
--Germany(Deutschland) 0.147370728 - low
 
--United Kingdom 2.192874477 - high
-
--Netherlands 0.88503313 - medium
+-India 8.670158816 - very high
 
 -Canada 0.683435935 - medium
 
+-United Kingdom 0.657862343 - medium
+
+-Ireland 0.187931957 - low
+ 
+-Germany(Deutschland) 0.147370728 - low
+
+-France 0.252708232 - low
+
+-Netherlands 0.88503313 - medium
+
+-Italy 0.323740838 - medium
+
+-Russia 0.029867116 - low
+
 -Finland(Suomi) 0.290980783 - low
+
+-Estonia 0.530192181 - medium
+
+-Sweden 0.230147737 - low
+
+-Denmark 0.231855344 - low
+
+-Norway 0.057247238 - low
 
 -Australia 0.830094774 - medium
 
 -Japan 0.370509724 - low
-
--South Korea 2.297994079 - high
-
--Singapore 1.129191021 - high
-
--India 8.670158816 - high
-
--Norway 0.057247238 - low
