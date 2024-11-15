@@ -29,6 +29,10 @@ Regions with a value more than 5.0 starts to have ultra-extreme education pressu
 
 -India 8.670158816 - very high
 
+-Korea 2.297994079 - high
+
+-Singapore 1.129191021 - high
+
 -Canada 0.683435935 - medium
 
 -United Kingdom 0.657862343 - medium
