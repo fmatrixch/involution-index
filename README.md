@@ -1,6 +1,12 @@
 # involution-index
 An sociological index invented by myself, representing the pressure students have to bear in a specific country/region.
 
+“大约从2018年开始，“内卷”一词在中国大陆变得广为人知，
+
+并引申表示付出大量努力却因递减定律而得不到等价的回报，必须在竞争中超过他人的社会文化，
+
+包含了恶性竞争、逐底竞争等更为负面的含义。“ 
+
 INVI (Involution Index) = (UMC line (Upper middle class control line) - LMC line (Lower middle class control line)) * EduRate (Ratio of education expenditure to household expenditure) * Gini (Gini coefficient) * HDI (Human Development Index) / GNI per capita (Per capita income)
 
 Regions with a value less than 0.5 have basically no education pressure - low
