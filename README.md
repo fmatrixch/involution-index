@@ -19,13 +19,13 @@ Regions with a value more than 5.0 starts to have ultra-extreme education pressu
 
 -China
 
- -Mainland 11.986645828 - very high
+   -Mainland 11.986645828 - very high
  
- -Taiwan 1.48130129 - high
+   -Taiwan 1.48130129 - high
  
- -Hong Kong 15.61693913 - very high
+   -Hong Kong 15.61693913 - very high
  
- -Macao 3.031406463 - high
+   -Macao 3.031406463 - high
  
 -Germany(Deutschland) 0.147370728 - low
 
