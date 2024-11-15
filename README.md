@@ -41,7 +41,7 @@ Regions with a value more than 5.0 starts to have ultra-extreme education pressu
 
 -Netherlands 0.88503313 - medium
 
--Italy 0.323740838 - medium
+-Italy 0.323740838 - low
 
 -Russia 0.029867116 - low
 
